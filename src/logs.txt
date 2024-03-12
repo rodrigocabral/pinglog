@@ -1,0 +1,9 @@
+11/03/2024 21:48:58 - https://httpbin.org/status/200: Result: loaded with success!
+11/03/2024 21:48:58 - https://www.alura.com.br: Result: loaded with success!
+11/03/2024 21:48:58 - https://httpbin.org/status/400: Result: went wrong. Status Code:400
+11/03/2024 21:49:03 - https://httpbin.org/status/200: Result: loaded with success!
+11/03/2024 21:49:04 - https://www.alura.com.br: Result: loaded with success!
+11/03/2024 21:49:04 - https://httpbin.org/status/400: Result: went wrong. Status Code:400
+11/03/2024 21:49:09 - https://httpbin.org/status/200: Result: loaded with success!
+11/03/2024 21:49:09 - https://www.alura.com.br: Result: loaded with success!
+11/03/2024 21:49:10 - https://httpbin.org/status/400: Result: went wrong. Status Code:400
